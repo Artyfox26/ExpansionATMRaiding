@@ -1,0 +1,6 @@
+//<'ATMRaiding_Client.pbo' properties via Mikero's dos tools, dll version 9.75>
+product=dayz ugc;
+version=1;
+prefix=ATMRaiding_Client;
+//PboType=Arma Addon;
+//</properties>
